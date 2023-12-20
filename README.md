@@ -44,10 +44,7 @@
 * Обновление резюме
 * Авто  
 
-
-
-
-## Используемые библиотеки
+## Используемые библиотеки!!!
 * Python (3.9):
     * [numpy (1.20.3)](https://numpy.org)
     * [pandas (1.3.4)](https://pandas.pydata.org)
@@ -57,7 +54,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/Verkonia/Project_hh.ru
 ```
 
 ## Использование
